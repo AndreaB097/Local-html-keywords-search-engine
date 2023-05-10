@@ -1,5 +1,5 @@
 # Local html keywords search engine
-A simple program to search keywords in your html and rank them. 
+A simple program to search keywords in your html files and rank them. 
 
 ## Requirements
 + [Node.js](https://nodejs.org/en/download).<br />
